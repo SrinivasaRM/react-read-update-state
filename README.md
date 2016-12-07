@@ -1,4 +1,4 @@
-- This react application will explain how to read and update the state.
+- This react application will explain how to read and update the Component state.
 - In this application, We set the timer value as 150.
 - Reading the initial state by props, which is 150.
 - Updating the state using the setState() method in setInterval user defined  method where you set to decrease one number for every 10 seconds.
